@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
-{
+{   
     public float moveSpeed, turnSpeed;
 
     private Vector2 moveInput;
